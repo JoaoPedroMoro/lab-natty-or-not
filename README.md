@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book sobre Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um e-book que conta um pouco sobre a história das IAs, como são utilizadas nos dias de hoje, os pontos positivos e negativos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT
+- Leonard.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChatGPT criar o conteúdo, depois pedi para o Leonard.AI sintetizar algumas imagens sobre o tema e por fim junto tudo em um google docs.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Está no PDF nesse diretório.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
